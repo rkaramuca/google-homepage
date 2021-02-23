@@ -1,1 +1,0 @@
-This is my project base for The Odin Project.
